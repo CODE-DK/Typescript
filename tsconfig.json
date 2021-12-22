@@ -1,0 +1,11 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "outDir": "./target",
+        "strict": true,
+        "target": "es6",
+        "watch": true,
+        "emitBOM": false
+    }
+}
